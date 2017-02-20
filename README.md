@@ -1,4 +1,6 @@
 # Hello-World
-smal test repo
 
-here is a difference
+small test repo
+
+this is a smal test repo to teach myself how to use github
+
